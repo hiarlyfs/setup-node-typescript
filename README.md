@@ -1,2 +1,2 @@
 # setup-node-typescript
-Setup node configurado com typescrip, eslint, prettier, babel e jest
+Setup node configurado com typescript, eslint, prettier, babel e jest
